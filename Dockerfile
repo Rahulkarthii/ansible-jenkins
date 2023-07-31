@@ -1,2 +1,2 @@
-FROM nginx:latestt
+FROM nginx:latesttt
 COPY . /usr/share/nginx/html
